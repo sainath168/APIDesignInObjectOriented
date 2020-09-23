@@ -8,7 +8,7 @@ import java.util.Queue;
 public class FindAPI {
     public static void main(String[] args) {
 
-        //create some data
+        //create some data with extension
         File file1 = new File();
         file1.setName("sai.txt");
 
